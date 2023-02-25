@@ -1,0 +1,23 @@
+{
+  "name": "reacnative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgvf2023/reacnative.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgvf2023/reacnative/issues"
+  },
+  "homepage": "https://github.com/vgvf2023/reacnative#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.7.4"
+  }
+}
